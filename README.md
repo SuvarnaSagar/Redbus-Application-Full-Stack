@@ -120,10 +120,3 @@ In this project , we have tried to make a perfect clone of redbus.in.
   * Maloth Karthikeya
 
     * Github : [ee220002047](https://github.com/Karthikeya-M)
-
- 
-    * Github : [kumarrohan2804](https://github.com/kumarrohan2804)
-
- * Archana Singh
-
-    * Github : [archana-sing](https://github.com/archana-sing)
